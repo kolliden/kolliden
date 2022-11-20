@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kolliden
-- 👀 I’m interested in coding
-- 🌱 I’m currently in school
+- 👀 I enjoy learning, coding and participating in ctf's
+- 🌱 I’m currently in school 12th grade
 
 <!---
 kolliden/kolliden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
